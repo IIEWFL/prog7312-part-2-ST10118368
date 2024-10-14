@@ -1,0 +1,13 @@
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\bin\Debug\CityCharm.exe.config
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\bin\Debug\CityCharm.exe
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\bin\Debug\CityCharm.pdb
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.MainForm.resources
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.exe
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.pdb
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.EventsAnnouncementForm.resources
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.ReportIssuesForm.resources
+C:\Users\lab_services_student\source\repos\CityCharm\CityCharm\obj\Debug\CityCharm.ServicesRequestForm.resources
